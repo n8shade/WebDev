@@ -1,0 +1,16 @@
+div{
+    color: black;
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 5px 10px red;
+    background-image: url("Genshin\ Impact\ Screenshot\ 2025.01.02\ -\ 16.01.33.38.png");
+    background-size: cover;
+}
+h2{
+    color: yellowgreen;
+    font-style: italic;
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
